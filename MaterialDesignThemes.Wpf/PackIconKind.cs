@@ -2142,6 +2142,8 @@ namespace MaterialDesignThemes.Wpf
         Money=Cash,
         Cash100,
         Money100=Cash100,
+        CashLock,
+        CashLockOpen,
         CashMarker,
         CashOnDelivery=CashMarker,
         Cod=CashMarker,
